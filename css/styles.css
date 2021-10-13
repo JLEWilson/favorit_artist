@@ -1,6 +1,6 @@
 body{
   background-color: #332c50;
-  color : #94e344;
+  color : #94e344
 }
 .header{
   color: white;
@@ -13,12 +13,18 @@ li{
 .aboutArtist{
   float:right;
   max-width: 300px;
-  padding-right: 5%;
+  padding: 50px;
 }
 .sidebar{
-  width: 30%;
-  float: left;
+  width: 200px;
+  border-width: 60px;
+  border: black;
   background-color: #e2f3e4;
-  color: black;
+  border-style: groove;
+  float: left;
   text-align: center;
+  padding: 10px;
+  color: black;
+  margin: 5px;
+  box-sizing: border-box;
 }
